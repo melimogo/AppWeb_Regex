@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWeb_Regex", "AppWeb_Regex.csproj", "{BDCF14E2-DAE0-4EEA-91D4-07C8317F5499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCF14E2-DAE0-4EEA-91D4-07C8317F5499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCF14E2-DAE0-4EEA-91D4-07C8317F5499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCF14E2-DAE0-4EEA-91D4-07C8317F5499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCF14E2-DAE0-4EEA-91D4-07C8317F5499}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA0DA90-9E4B-4EE9-91E7-B595923D40A9}
+	EndGlobalSection
+EndGlobal
